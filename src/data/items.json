@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Shoes",
+    "quantity": 5,
+    "price": "$150",
+    "images": ["nike1-1.jpg", "nike1-2.jpg", "nike1-3.jpg"]
+  },
+  {
+    "id": 2,
+    "name": "Nike Bag",
+    "quantity": 5,
+    "price": "$150",
+    "images": ["nike2-1.jpg", "nike2-2.jpg", "nike2-3.jpg"]
+  },
+  {
+    "id": 3,
+    "name": "Nike Cap",
+    "quantity": 5,
+    "price": "$150",
+    "images": ["nike3-1.jpg", "nike3-2.jpg", "nike3-3.jpg"]
+  },
+  {
+    "id": 4,
+    "name": "Nike T-shirt",
+    "quantity": 5,
+    "price": "$150",
+    "images": ["nike4-1.jpg", "nike4-2.jpg", "nike4-3.jpg"]
+  },
+  {
+    "id": 5,
+    "name": "Nike Shoes",
+    "quantity": 5,
+    "price": "$150",
+    "images": ["nike1-1.jpg", "nike1-2.jpg", "nike1-3.jpg"]
+  },
+  {
+    "id": 6,
+    "name": "Nike Bag",
+    "quantity": 5,
+    "price": "$150",
+    "images": ["nike2-1.jpg", "nike2-2.jpg", "nike2-3.jpg"]
+  },
+  {
+    "id": 7,
+    "name": "Nike Cap",
+    "quantity": 5,
+    "price": "$150",
+    "images": ["nike3-1.jpg", "nike3-2.jpg", "nike3-3.jpg"]
+  },
+  {
+    "id": 8,
+    "name": "Nike T-shirt",
+    "quantity": 5,
+    "price": "$150",
+    "images": ["nike4-1.jpg", "nike4-2.jpg", "nike4-3.jpg"]
+  },
+  {
+    "id": 9,
+    "name": "Nike Shoes",
+    "quantity": 5,
+    "price": "$150",
+    "images": ["nike1-1.jpg", "nike1-2.jpg", "nike1-3.jpg"]
+  },
+  {
+    "id": 10,
+    "name": "Nike Bag",
+    "quantity": 5,
+    "price": "$150",
+    "images": ["nike2-1.jpg", "nike2-2.jpg", "nike2-3.jpg"]
+  },
+  {
+    "id": 11,
+    "name": "Nike Cap",
+    "quantity": 5,
+    "price": "$150",
+    "images": ["nike3-1.jpg", "nike3-2.jpg", "nike3-3.jpg"]
+  },
+  {
+    "id": 12,
+    "name": "Nike T-shirt",
+    "quantity": 5,
+    "price": "$150",
+    "images": ["nike4-1.jpg", "nike4-2.jpg", "nike4-3.jpg"]
+  },
+  {
+    "id": 13,
+    "name": "Nike Shoes",
+    "quantity": 5,
+    "price": "$150",
+    "images": ["nike1-1.jpg", "nike1-2.jpg", "nike1-3.jpg"]
+  },
+  {
+    "id": 14,
+    "name": "Nike Bag",
+    "quantity": 5,
+    "price": "$150",
+    "images": ["nike2-1.jpg", "nike2-2.jpg", "nike2-3.jpg"]
+  },
+  {
+    "id": 15,
+    "name": "Nike Cap",
+    "quantity": 5,
+    "price": "$150",
+    "images": ["nike3-1.jpg", "nike3-2.jpg", "nike3-3.jpg"]
+  },
+  {
+    "id": 16,
+    "name": "Nike T-shirt",
+    "quantity": 5,
+    "price": "$150",
+    "images": ["nike4-1.jpg", "nike4-2.jpg", "nike4-3.jpg"]
+  }
+]

@@ -1,0 +1,54 @@
+/* Define styles for the container */
+.container {
+  height: 100vh; /* Set a fixed height for the container */
+  overflow-y: scroll; /* Always show the vertical scroll bar */
+  scroll-behavior: smooth; /* Add smooth scrolling (optional) */
+}
+
+/* Define default styles for the items */
+.item-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 items per row */
+  gap: 10px;
+  justify-content: center; /* Center the rows horizontally */
+}
+
+.line-break {
+  flex-basis: 100%;
+  width: 100%;
+  height: 10px;
+}
+
+/* Define styles for smaller screens */
+@media (max-width: 768px) {
+  .item-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Define styles for even smaller screens */
+@media (max-width: 480px) {
+  .item-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Define styles for the item box */
+.item-box {
+  width: 200px;
+  height: 250px;
+  border: 1px solid #ccc;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.item-image img {
+  max-width: 150px;
+  max-height: 100px;
+}
+
+.item-details {
+  margin-top: 10px;
+}
